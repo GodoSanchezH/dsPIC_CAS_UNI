@@ -1,0 +1,9 @@
+dspiccas1.iot.ubidots.com
+Godo_dsPIC_CAS
+
+-----------
+device label :dspic_cas
+
+
+
+POST /api/v1.6/devices/dspic_cas  HTTP/1.1<LF>Host: things.ubidots.com<LF>X-Auth-Token: BBFF-toBwEg4s8EO3APHwATVPU7abfeupCX<LF>Content-Type: application/json<LF>Content-Length: 14<LF><LF>{"dato1": 99}<LF>
